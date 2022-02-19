@@ -5,7 +5,7 @@ const MenuBar = () => {
         <div className="menu-section">
             <div className="nav-bar container">
                 <div className="logo">
-                    <span>Agency</span>
+                    <span>Creative Soft</span>
                 </div>
                 <div className="menuBar">
                     <ul className="menu-item">
